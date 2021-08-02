@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Cynthia
-###
+### I am a Graduate researcher and upcoming Molecular breeder
 
 - 🔭 I’m currently working on The Spreadsheet project...
 - 🌱 I’m currently learning data science, transcriptomics, metagenomics, epigenomics and bigdata analysis...
