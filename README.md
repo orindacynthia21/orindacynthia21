@@ -10,3 +10,12 @@
 - 😄 Pronouns: She/Her...
 - ⚡ Fun fact: I am also a photographer...
 -->
+#### Duplicate Reads Removal
+Tool:![](https://i.imgur.com/NS3WOzu.png)
+
+###### Significance
+*To remove potential PCR duplicates.
+*In the case that multiple read pairs have identical external coordinates ,it ensures the retention of the pair with the highest mapping quality.
+
+Note: It does not work for unpaired reads
+
